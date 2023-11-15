@@ -1,5 +1,6 @@
 lib
 compile.bat
+include/SFML
 src/main.cpp
 *.o
 *.exe
