@@ -1,0 +1,5 @@
+compile.bat
+src/main.cpp
+*.o
+*.exe
+*.vscode
